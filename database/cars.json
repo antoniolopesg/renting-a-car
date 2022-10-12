@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1bdee28b-7943-4679-b6ae-7d9301f009f2",
+    "name": "Alpine",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "af089380-d7a8-4b36-bda6-664bca80b0ee",
+    "name": "Grand Caravan",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b6d04486-1d2b-4fbe-9e86-b4ac121e97ea",
+    "name": "Durango",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
